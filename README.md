@@ -1,48 +1,67 @@
-# Présentation
+# Brice Huet – Full Stack & Mobile Developer | Product-Oriented | Epitech Student
 
-👋 Bonjour ! Je suis Brice HUET, un passionné de développement mobile actuellement en troisième année à Epitech, une école d'informatique. Je me spécialise dans la création d'applications mobiles.
+👋 Hi there! I'm Brice Huet, a passionate full stack and mobile developer with a strong product mindset. I design and build tech solutions that solve real-world problems — combining technical expertise and business vision to create useful, scalable, and impactful apps.
 
-## À propos de moi
+---
 
-🎓 J'ai acquis une solide base de connaissances grâce à ma scolarité à Epitech, ainsi que mes expériences de stage dans le domaine du développement mobile. Mon désir d'apprendre m'a également poussé à entreprendre des formations autodidactes.
+## 🚀 About Me
 
-## Compétences clés
+I'm currently in my final year at [Epitech](https://www.epitech.eu/), completing a double academic program with [TUD Dublin](https://www.tudublin.ie/). I've led innovative projects both as a freelancer and within agile product teams. I value autonomy, ownership, and crafting great user experiences.
 
-- ⚛️ Expertise dans le développement front-end avec React Native.
-- 📱 Conception et création d'interfaces utilisateur attrayantes et réactives.
-- 🚀 Optimisation des performances pour des expériences mobiles fluides.
-- 🔧 Résolution efficace de problèmes et débogage.
+I’m particularly interested in:
 
-## Compétences techniques
+- Smart retail solutions (AI, automation)
+- Crypto, Web3 & decentralized finance
+- Startup ecosystems & entrepreneurship
 
-Voici un aperçu de mes compétences techniques :
+---
 
-### Langages de Programmation
+## 🧠 Key Skills
 
-- JavaScript / TypeScript
-- Python
-- C / C++
-- Haskell
+- **Languages:** JavaScript, TypeScript, HTML/CSS, Python, C/C++
+- **Mobile Development:** React Native, Expo
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, Firebase
+- **Dev Tools:** Git, Postman, Stripe API, REST API, CI/CD
+- **Soft Skills:** Product mindset, fast learner, agile project management, user-centric design
 
-### Technologies
+---
 
-- **Développement Mobile :** React Native
-- **Environnement Backend :** Node.js
-- **Base de données :** MongoDB
-- **Langages Web :** HTML, CSS, JavaScript
+## 🛠 Notable Projects
 
-Je suis à l'aise avec ces langages et technologies, et je suis toujours enthousiaste à l'idée d'apprendre de nouvelles compétences pour répondre aux besoins changeants du développement mobile et informatique.
+### 🛒 e-kart Project (2024 – now)
+**Lead Developer / Project Manager**  
+AI-powered mobile app for automated product recognition without checkout lines.  
+`React Native`, `Python`, `Node.js`, `YOLO`, `Stripe`, `VM`
 
-## Expérience en Freelance
+### 🧩 Codee (2025)
+Community platform for sharing and voting on referral codes.  
+Freemium model + ad monetization.  
+`Node.js`, `Express`, `React.js`, `Stripe`
 
-💼 En tant que développeur en freelance, je mets mes compétences à votre disposition pour le développement d'applications mobiles exceptionnelles. Que vous ayez besoin de créer une nouvelle application depuis zéro ou d'améliorer une application existante, je suis prêt à relever le défi.
+### 🖼 Pixelchain (OneMillionDollarHomepage – 2024)
+Pixel wall financed by crypto (Solana)  
+`React.js`, `Node.js`, `Solana`, `Web3`
 
-🔍 De plus, je suis en mesure de fournir des conseils avisés et de proposer des solutions. Mon approche consiste à comprendre vos objectifs, à analyser les défis auxquels vous êtes confrontés et à concevoir des solutions sur mesure. Que ce soit pour optimiser l'expérience utilisateur, intégrer des fonctionnalités avancées ou résoudre des problèmes techniques complexes, je suis là pour vous aider à réaliser votre vision.
+---
 
-Contactez-moi pour discuter de vos projets et explorons comment je peux répondre à vos besoins.
+## 👨‍💻 Experience
 
-## Contact
+### Freelance Developer (2024 – now)
+- Mobile app dev (React Native)
+- Debugging, app improvement, Arduino integration
 
-📬 N'hésitez pas à me contacter si vous avez des questions, des opportunités de collaboration ou simplement pour discuter de vos idées de projet. Vous pouvez me joindre par email à [briceuh29@gmail.com] ou via [LinkedIn](https://www.linkedin.com/in/bricehuet).
+### Squirrel Internships
+- Mobile dev for apps like Cine974, GAA, InfoTraffic974
+- `React Native`, `GraphQL`, `TypeScript`
 
-Je suis impatient de travailler ensemble pour donner vie à vos idées mobiles !
+---
+
+## 📬 Contact
+
+- 🌍 Based in Paris & Réunion Island
+- 📧 hubrice.dev@gmail.com
+- 🔗 [GitHub](https://github.com/Briceuuuh)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bricehuet)
+
+Feel free to reach out if you're building something cool 🚀
